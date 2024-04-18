@@ -1,3 +1,11 @@
+
+![Image](https://i.imgur.com/7DGBfnY.png)
+
+![Image](https://i.imgur.com/3oqzn8K.png)
+
+![Image](https://i.imgur.com/WlV81kz.png)
+
+
 # SiteVitrine
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
